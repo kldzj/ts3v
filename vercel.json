@@ -1,0 +1,7 @@
+{
+	"cleanUrls": true,
+	"redirects": [
+		{ "source": "/", "destination": "/api" },
+		{ "source": "/latest", "destination": "/api/latest" }
+	]
+}

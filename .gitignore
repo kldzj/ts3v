@@ -1,0 +1,7 @@
+.now
+node_modules
+now.json
+
+package-lock.json
+yarn.lock
+yarn-error.log

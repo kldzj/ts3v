@@ -1,0 +1,17 @@
+{
+	"name": "ts3-versions-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/server.js",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.3",
+		"node-fetch": "^2.6.0",
+		"semver": "^7.1.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nikolai Kolodziej",
+	"license": "ISC"
+}
